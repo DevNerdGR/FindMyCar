@@ -24,4 +24,7 @@
     <string name="homeCarpark">Home car park</string>
 
     <string name="confirm">Confirm</string>
+
+    <string name="about">App by Tew Gun Rui</string>
+    <string name="version">v1.0.0-alpha</string>
 </resources>
