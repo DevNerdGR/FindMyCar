@@ -9,3 +9,5 @@ If you would like to use the app, you may fork the repository and edit the sourc
 ![WhatsApp Image 2025-04-06 at 14 14 59 (1)](https://github.com/user-attachments/assets/1801ff29-741d-4ad7-b683-f998e5ad0181)
 ![WhatsApp Image 2025-04-06 at 14 14 58](https://github.com/user-attachments/assets/c514b7a1-3e35-4be8-a16f-3289e070afb2)
 ![WhatsApp Image 2025-04-06 at 14 14 59](https://github.com/user-attachments/assets/4b868117-d60e-41ec-aca8-dbbb332d45b6)
+## License
+[MIT](https://opensource.org/license/mit)
