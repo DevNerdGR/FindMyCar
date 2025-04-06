@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "480686578994",
+    "firebase_url": "https://findmycar-f6eb9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "findmycar-f6eb9",
+    "storage_bucket": "findmycar-f6eb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480686578994:android:bee3ceccd581d305c70b2b",
+        "android_client_info": {
+          "package_name": "gr.findmycar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-1N-cJ-IrLkw2zDpeiEiJkGL4R1j70w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

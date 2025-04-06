@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FindMyCar</string>
+
+    <string name="loginTitleTemplate">Login to %s</string>
+    <string name="emailPlaceholder">Email</string>
+    <string name="passwordPlaceholder">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="noAccountButton">Don\'t have an account?</string>
+    <string name="noAccountExplaination">This app is currently not for public use. If you do not have login credentials, try contacting the administrator directly.</string>
+    <string name="failedLoginMessage">Unable to log in, contact admin if issue persists</string>
+    <string name="logoutButton">Log out</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="appAppearance">App appearance</string>
+    <string name="dynamicThemeSetting">Dynamic theme</string>
+
+    <string name="cardTitle">Where\'s my car?</string>
+    <string name="locationLabelTemplate">%s</string>
+    <string name="lotNumberTemplate">Lot number: %d</string>
+    <string name="personTemplate">By %s</string>
+    <string name="lastUpdatedTemplate">Last updated: %s</string>
+
+    <string name="connectionError">Failed to connect</string>
+
+    <string name="homeCarpark">Home car park</string>
+
+    <string name="confirm">Confirm</string>
+</resources>
